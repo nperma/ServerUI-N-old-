@@ -3,7 +3,9 @@
   <h3 align="center"><u>ServerUI-N Docs</u></h3>
 
   <p align="center">
-    <a href="
+    <a href="https://github.com/Kocaki182/ServerUI-N/issues">Report Bug/issue</a>
+    •
+    <a href="https://github.com/Kocaki182/ServerUI-N/issues">Request</a>
   </p>
 </div>
 <a href="https://www.mediafire.com/file/p3rckno81pwl1c7/SERVER_UI_N_V14.zip/file">Download Here</a>
