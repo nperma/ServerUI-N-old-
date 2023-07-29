@@ -1,8 +1,12 @@
 <div align="center">
   <img src="https://github.com/Kocaki182/ServerUI-N/assets/129764133/6b6b60f5-d2d3-4040-b8fa-067105c0154a" alt="ServerUI"/>
   <h3 align="center"><u>ServerUI-N Docs</u></h3>
+
+  <p align="center">
+    <a href="
+  </p>
 </div>
-<a href="https://www.mediafire.com/file/p3rckno81pwl1c7/SERVER_UI_N_V14.zip/file">Download Here</a><a href="https://github.com/Kocaki182/ServerUI-N/issues" align="center">Bug/issue report here</a>•<a href="https://github.com/Kocaki182/ServerUI-N/issues" align="center">Request Features here</a>
+<a href="https://www.mediafire.com/file/p3rckno81pwl1c7/SERVER_UI_N_V14.zip/file">Download Here</a>
 <h3>Addon Depend : Nakata ServerUI</h3>
 <h3>MePlaud : @Nperma</h3>
 <h3>Contribute :</h3>
