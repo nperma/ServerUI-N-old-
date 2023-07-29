@@ -33,7 +33,7 @@
 <br />
 
 ### BetterRTP
-```mcfunction
+```
 #You can rtp With addTag "rtp_npc"
 #You can add command into npc
 
