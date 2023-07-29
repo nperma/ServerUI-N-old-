@@ -27,8 +27,9 @@
 
 ### BetterRTP
 ```mcfunction
-#You can rtp With addTag "rtp_npc"
+#You can rtp With addTag "rtp_ui"
 #You can add command into npc
+# CD 10sec
 
 #Copy this command and add to npc
 tag @initiator add rtp_npc
@@ -37,3 +38,60 @@ tag @initiator add rtp_npc
 tag @s add rtp_npc
 ```
 <br />
+
+### INFO (guide)
+```javascript
+/**
+ * Filepath : scripts/mainMenu/info.js
+ * 
+```
+<br />
+
+### Rebuilt
+- HomeSystem (Change to Database & support all dimension)
+- WarpSystem (Change to Database)
+- ChatSystemUI (change to Database)
+<br />
+
+### Fixed
+- MaskShop
+- MessageSystem
+<br />
+
+### Disabled Features
+- SudoSystem
+<br />
+
+### Features
+inludes [serverUI v11-link DC](https://discord.com/channels/1003279583476453467/1048900022915313704/1128499602056822827)
+- WarpUI
+- HomeUI
+- ClearLag (command) <on|off|clear>
+- BetterRTP (AntiKepentok)
+- Invsee (Only support Inventory)
+- NickUI
+- GuildUI
+<br />
+
+### TagList
+- WarpTag
+```mcfunction
+tag (selector/objectname) add warp_ui
+```
+- Rtp
+```mcfunction
+tag (selector/objectname) add rtp_ui
+```
+- RankTag
+```mcfunction
+# PrefixTag = "rank:"
+tag (selector/objectname) add rank:(rankName)
+```
+- NickUI
+```mcfunction
+#Permission to acces UI "nickPerm"
+#Permission OpenUI "nick_ui"
+```
+<br />
+
+[Back To UP](#)
