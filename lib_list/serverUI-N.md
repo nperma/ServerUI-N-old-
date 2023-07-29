@@ -3,13 +3,6 @@
   <h3 align="center"><u>ServerUI-N Docs</u></h3>
 </div>
 
-<!--
-<p></p> based
-<li></li> •
-<a></a> blue
-<ul></ul> space|space/4
--->
-
 <detail>
 <li>
 <a href="#guild-ui-testing">Guild-UI</a>
