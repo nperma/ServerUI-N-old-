@@ -42,8 +42,33 @@ tag @s add rtp_npc
 ### INFO (guide)
 ```javascript
 /**
- * Filepath : scripts/mainMenu/info.js
- * 
+ * Check Docs @minecraft/server-ui or @JaylyDev
+ */
+ 
+ /**
+  * module : "import { ActionFormData } minecraft/server-ui"
+  * @ActionFormData
+  * @title
+  * @body
+  * @button
+  * 
+  * example:
+  * const form = new ActionFormData()
+  * .title("Tutorial")
+  * .body("Follow TT @Npolose\nMekimek")
+  * .button("exit");
+  * form.show(this.object/player); or form.show(this.object/player).then(res => {})
+  * 
+  * 
+  * @module : import { ModalFormData } from "@minecraft/server-ui"
+  * @ModalFormData
+  * @title
+  * @textField
+  * @dropdown
+  * @slider
+  */
+
+//You can add this to NPc with tag "info_ui"
 ```
 <br />
 
