@@ -36,4 +36,7 @@
 ```mcfunction
 #You can rtp With addTag "rtp_npc"
 #You can add command into npc
+
+#Copy this command and add to npc
+/tag @initiator add rtp_npc
 ```
