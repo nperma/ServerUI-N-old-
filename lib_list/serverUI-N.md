@@ -12,16 +12,16 @@
 
 <detail>
 <li>
-<a href="#guild-ui-testing">🛡Guild-UI</a>
+<a href="#guild-ui-testing">Guild-UI</a>
 </li>
-<li> update </li>
+<li><a href="#betterrtp">RTP (void(0))</a></li>
 </detail>
 
 ## 🛡Guild-UI [testing]
-### Features
+- ### No have Guild
 - create
 - join
-### Has Guild
+- ### Has Guild
 - invite [unless member]
 - kick [Founder]
 - promotecofounder [Founder]
@@ -32,4 +32,10 @@
 - Quit [unless founder]
 <br />
 
-### Rtp
+### BetterRTP
+```javascript
+/**
+ * You can rtp With addTag "rtp_npc"
+ * You can add command into npc
+ */
+```
