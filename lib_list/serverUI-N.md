@@ -12,7 +12,7 @@
 
 <detail>
 <li>
-<a href="#guildui">🛡Guild-UI</a>
+<a href="#guild-ui-testing">🛡Guild-UI</a>
 </li>
 <li> update </li>
 </detail>
