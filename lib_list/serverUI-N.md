@@ -8,7 +8,7 @@
     <a href="https://github.com/Kocaki182/ServerUI-N/issues">Request</a>
   </p>
 </div>
-<a href="https://www.mediafire.com/file/p3rckno81pwl1c7/SERVER_UI_N_V14.zip/file">Download Here</a>
+<a href="https://www.mediafire.com/file/h2ijhn6z8le7xt5/SERVER_UI_N_v14.5.zip/file">Download ServerUI N V14.5 Here</a>
 <h3>Addon Depend : Nakata ServerUI</h3>
 <h3>MePlaud : @Nperma</h3>
 <h3>Contribute :</h3>
@@ -28,6 +28,7 @@
 </li>
 <li><a href="#betterrtp">RTP (void(0))</a></li>
 <li><a href="#info">Info-Setting</a></li>
+  <li><a href="#onlinepoint-setting">onpPRIZE-setting</a></li>
 </detail>
 
 ### Features
@@ -160,6 +161,20 @@ const infoSerper = "none";
 const infoUpdet = "none";
 
 const infoEpent = "none";
+```
+<br />
+
+### ONLINEPOINT-SETTING
+```javascript
+// Filepath: scripts/mainMenu/setting/onlinepoint/mainUI
+/**
+ * id: "name"
+ * price: number
+ * prizeGet: number/quantityGet
+ * type: ["tag","give"]
+ * namebutton: "buttonname"
+ * texture: "filepath.textures" #optional
+ **/
 ```
 <br />
 
