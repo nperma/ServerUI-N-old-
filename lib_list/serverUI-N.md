@@ -31,9 +31,16 @@
   <li><a href="#onlinepoint-setting">onpPRIZE-setting</a></li>
 </detail>
 
+### Update V14.5
+- nerf warp (add cooldown)
+- nerf home (add cooldown & cancel isMoving)
+- Improved NickSystem
+- add ID
+- add button visible_id(menu/nickUI)
+- add button iduserlist(adminmenu/chat)
+
 ### Features
 inludes ServerUI V11 [ServerUI Nakata DC](https://discord.gg/pwfPKMpx)
-- ClearLag (command) <on|off|clear>
 - BetterRTP (AntiKepentok)
 - Invsee (Only support Inventory)
 - NickUI
@@ -53,6 +60,7 @@ inludes ServerUI V11 [ServerUI Nakata DC](https://discord.gg/pwfPKMpx)
 <br />
 
 ### Disabled Features
+- ClearLag (command) <on|off|clear>
 - SudoSystem
 - RandomTeleportToPlayer
 <br />
