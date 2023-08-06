@@ -8,7 +8,7 @@
     <a href="https://github.com/Kocaki182/ServerUI-N/issues">Request</a>
   </p>
 </div>
-<a href="https://www.mediafire.com/file/h2ijhn6z8le7xt5/SERVER_UI_N_v14.5.zip/file">Download ServerUI N V14.5 Here</a>
+<a href="https://www.mediafire.com/file/1o2k9lcvim6nt21/SERVER_UI_N_v15.zip/file">Download ServerUI N V15 Here</a>
 <h3>Addon Depend : Nakata ServerUI</h3>
 <h3>MePlaud : @Nperma</h3>
 <h3>Contribute :</h3>
@@ -38,6 +38,8 @@
 - add ID
 - add button visible_id(menu/nickUI)
 - add button iduserlist(adminmenu/chat)
+### Update V15
+- Rebuilt ScoreboardSetting
 
 ### Features
 inludes ServerUI V11 [ServerUI Nakata DC](https://discord.gg/pwfPKMpx)
@@ -185,5 +187,10 @@ const infoEpent = "none";
  **/
 ```
 <br />
+
+### ScoreboardSetting
+```javascript
+
+```
 
 [Back To UP](#)
