@@ -211,7 +211,7 @@ const infoEpent = "none";
        */
 ```
 ### Template Scoreboard
-```mcfunction
+```
 §k||§r   §l§bServerName§r   §k||§r@L| §bName: §7@NAME@L| §bRank: §r@RANK@L| §bGuild: §6@GUILD§r@L| [Server-Stats]@L| §7ping: §d@PING§r@L| §7online: §a@ONCOUNT§5/§230§r@L| §7itemDrop: @DROPCOUNT@L  ip.server
 ```
 <br />
