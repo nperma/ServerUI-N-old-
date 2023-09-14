@@ -15,3 +15,12 @@
 <h3>Contribute :</h3>
 <li><a>@Void(0)</a></li>
 <li><a href="https://discord.gg/mgMdzHZe">SkyBound Community</a></li>
+
+
+### Update 1
+- fixed somebug
+- fixed sudo(featured)
+- fixed guildui(featured)
+- add custom nameTag
+- new ChatFormat
+- 
