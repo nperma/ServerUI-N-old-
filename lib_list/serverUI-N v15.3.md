@@ -21,6 +21,6 @@
 - fixed somebug
 - fixed sudo(featured)
 - fixed guildui(featured)
+- removed join button(guildui)
 - add custom nameTag
 - new ChatFormat
-- 
