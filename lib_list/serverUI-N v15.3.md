@@ -48,4 +48,3 @@
 - starter(update)
  - add Tag to Get Reward <tag: starter_pack>
  - add Tag to reset Reward <tag: starter.reset_acc>
--
