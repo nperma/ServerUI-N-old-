@@ -25,11 +25,22 @@
 - add custom nameTag
 - new Chat(system && Update UI)
  - new UI CooldownSetting(setting cd Chat)
-Fixed Death & Kill Counter(effectived)
+- fixed Death & Kill Counter(effectived)
  - #note: Kill counter will Add when player kill Player
 ### Update 2 
 - Fixed guildui
+- fixed disabledsystem
+- fixed command(rtp & onpoint)
 - setting Guild(add Price For Guild[Manual])
 - Chat(Update Featured)
  - add chatformat(setting[ingame])
  - add nametagformat(setting[ingame])
+- scoreboard(update prefix)
+  - add @TIMEPLAY <timeplay>
+  - add @TIMEP:S <timeplay:second>
+  - add @TIMEP:M <timeplay:minute>
+  - add @TIMEP:D <timeplay:hour>
+  - add @[DATE] <number: date/month/year>
+- Configuration(update)
+ - add maskeff(true/false) <setting MaskEffect>
+ - add region(ID,EN,EU) <region time>
