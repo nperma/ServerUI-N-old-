@@ -23,4 +23,5 @@
 - fixed guildui(featured)
 - removed join button(guildui)
 - add custom nameTag
-- new ChatFormat
+- new Chat(system && Update UI)
+ - new UI CooldownSetting(setting cd Chat)
