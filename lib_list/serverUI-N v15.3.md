@@ -20,6 +20,7 @@
 ### Update 1
 - fixed somebug
 - fixed sudo(featured)
+- rebuilt bankui
 - fixed guildui(featured)
 - removed join button(guildui)
 - add custom nameTag
@@ -30,6 +31,8 @@
 ### Update 2 
 - Fixed guildui
 - fixed disabledsystem
+- fixed rules
+- fixed BankUI(pay)
 - fixed command(rtp & onpoint)
 - setting Guild(add Price For Guild[Manual])
 - Chat(Update Featured)
