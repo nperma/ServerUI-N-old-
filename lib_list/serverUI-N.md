@@ -41,6 +41,8 @@
 ### Update V15
 - Rebuilt ScoreboardSetting [scsetting](#scoreboardsetting)
 - Improved & Rebuilt RankList(show TagAcces if player HasTag("admin"))
+### Update V15.3 update 2
+- Add GuildUI
 
 ### Features
 inludes ServerUI V11 [ServerUI Nakata DC](https://discord.gg/pwfPKMpx)
