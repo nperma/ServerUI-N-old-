@@ -27,3 +27,9 @@
  - new UI CooldownSetting(setting cd Chat)
 Fixed Death & Kill Counter(effectived)
  - #note: Kill counter will Add when player kill Player
+### Update 2 
+- Fixed guildui
+- setting Guild(add Price For Guild[Manual])
+- Chat(Update Featured)
+ - add chatformat(setting[ingame])
+ - add nametagformat(setting[ingame])
