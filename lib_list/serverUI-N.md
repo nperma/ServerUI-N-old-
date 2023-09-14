@@ -24,7 +24,7 @@
 <li><a href="#fixed">Fixed</a></li>
 <li><a href="#disabled-features">Disabled Features</a></li>
 <li>
-<a href="#guild-ui-testing">Guild-UI</a>
+<a href="#guild-ui-beta">Guild-UI</a>
 </li>
 <li><a href="#betterrtp">RTP (void(0))</a></li>
 <li><a href="#info">Info-Setting</a></li>
