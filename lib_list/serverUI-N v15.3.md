@@ -25,3 +25,5 @@
 - add custom nameTag
 - new Chat(system && Update UI)
  - new UI CooldownSetting(setting cd Chat)
+Fixed Death & Kill Counter(effectived)
+ - #note: Kill counter will Add when player kill Player
