@@ -44,3 +44,4 @@
 - Configuration(update)
  - add maskeff(true/false) <setting MaskEffect>
  - add region(ID,EN,EU) <region time>
+- add Warp Type Coor
