@@ -10,7 +10,7 @@
 </div>
 <p align="center">
 <a href="https://www.mediafire.com/file/13npbmopw1ala5w/ServerUI-N_v15.3_update_2_-_fixed_Nametag.zip/file">Download ServerUI N V15.3 Here</a></p>
-<h3>Addon Depend : Nakata ServerUI v11</h3>
+<h3>Extends Nakata ServerUI v11</h3>
 <h3>Scripting : @Nperma</h3>
 <h3>Contribute :</h3>
 <li><a>@Void(0)</a></li>
